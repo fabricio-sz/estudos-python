@@ -1,0 +1,5 @@
+print(str(1) + "1")
+print(str(1) + "1")
+print(bool(" "))
+print(bool(""))
+print(float("1.2") + int("1"))
